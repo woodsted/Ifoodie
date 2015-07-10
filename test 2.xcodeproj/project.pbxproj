@@ -59,7 +59,7 @@
 		70BD79991B4FB0F100F60FC6 = {
 			isa = PBXGroup;
 			children = (
-				70BD79A41B4FB0F100F60FC6 /* test 2 */,
+				70BD79A41B4FB0F100F60FC6 /* My Foodie 2 */,
 				70BD79BA1B4FB0F100F60FC6 /* test 2Tests */,
 				70BD79A31B4FB0F100F60FC6 /* Products */,
 			);
@@ -74,7 +74,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		70BD79A41B4FB0F100F60FC6 /* test 2 */ = {
+		70BD79A41B4FB0F100F60FC6 /* My Foodie 2 */ = {
 			isa = PBXGroup;
 			children = (
 				70BD79A71B4FB0F100F60FC6 /* AppDelegate.swift */,
@@ -84,6 +84,7 @@
 				70BD79B01B4FB0F100F60FC6 /* LaunchScreen.xib */,
 				70BD79A51B4FB0F100F60FC6 /* Supporting Files */,
 			);
+			name = "My Foodie 2";
 			path = "test 2";
 			sourceTree = "<group>";
 		};
@@ -409,6 +410,7 @@
 				70BD79C31B4FB0F100F60FC6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		70BD79C41B4FB0F100F60FC6 /* Build configuration list for PBXNativeTarget "test 2Tests" */ = {
 			isa = XCConfigurationList;
@@ -417,6 +419,7 @@
 				70BD79C61B4FB0F100F60FC6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
